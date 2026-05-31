@@ -1,7 +1,8 @@
+/*Write a program to know about the use of comments (How to use comments)?*/
 #include <stdio.h>
 void main()
 {
-    printf("Hello C! Programming");
-    printf("\n Hi How are you");
+    printf("This program of using comments");
+    /*How to use comments*/
     return;
 }

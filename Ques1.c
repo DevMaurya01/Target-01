@@ -1,7 +1,7 @@
+/*Write a programming to display message "Hello ! C Programming"*/
 #include <stdio.h>
 void main()
 {
-    printf("Hello C! Programming");
-    printf("\n Hi How are you");
+    printf("Hello C! Programmers");
     return;
 }
